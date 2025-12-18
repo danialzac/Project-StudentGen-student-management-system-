@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 <img align="right" width="150" height="150" src="https://media-exp1.licdn.com/dms/image/C4E0BAQF7BYCCZt5epw/company-logo_200_200/0?e=2159024400&v=beta&t=qUAFP9bUgBEEXGVQYpUXW1J_OiP8e0r4rFBpqp8OrxA">
 
@@ -85,3 +86,7 @@
   1. Implement a way to store grades for each course a student is taking. There should be a way to update/set the score.
   Afterwards, fill in the `public List<Course> findPassedCourses( Course course )` method in Student.java
   2. Implement an additional feature in the menu options that will display the average grade of all the students suscribed to a given course.
+=======
+# Project-StudentGen-student-management-system-
+Student Management System: Java console application that manages student enrollment, course registration, and grading. System allows users to register students, enroll them in courses, track approved courses, assign grades, and verify student subscriptions. It follows object-oriented design principles and includes unit tests written with JUnit 5.
+>>>>>>> 682adcce6d20f8d598279915bf768dcfbd90acfe
